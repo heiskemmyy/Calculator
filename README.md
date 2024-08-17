@@ -21,12 +21,12 @@ To run this calculator app locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/responsive-calculator.git
+   git clone https://github.com/heiskemmyy/Calculator.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd responsive-calculator
+   cd Calculator
    ```
 
 3. Install the required dependencies:
@@ -88,14 +88,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 **Emmanuel Amoa-Menyah**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin) or check out more projects on [GitHub](https://github.com/yourusername).
-```
-
-### Key Additions:
-- **Installation and Setup** section for getting the project running locally.
-- **Project Structure** to guide users on file locations.
-- **Usage** instructions for clarity on how to use the calculator.
-- **Screenshots** placeholders (you can add actual images later).
-- **Future Enhancements** to give an idea of potential improvements.
-
-Make sure to replace placeholders like `yourusername` with your actual GitHub and LinkedIn links.
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/emmanuelamoamenyah) or check out more projects on [GitHub](https://github.com/heiskemmyy).
