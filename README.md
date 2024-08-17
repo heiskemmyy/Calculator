@@ -1,8 +1,4 @@
 Here's an updated `README.md` for your responsive calculator project:
-
-### `README.md`
-
-```markdown
 # Responsive Calculator App
 
 A simple and responsive calculator app built with HTML, CSS, and JavaScript. The app features a basic calculator with operations like addition, subtraction, multiplication, and division. The layout is responsive, ensuring a seamless experience on both desktop and mobile devices.
